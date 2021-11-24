@@ -1,7 +1,7 @@
 # [Code With Mosh - The Ultimate JavaScript Mastery Series - Part 1](https://codewithmosh.com/p/javascript-basics-for-beginners)
 
 ![The Ultimate JavaScript Mastery Series - Part 1](https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/4JkBtVU9QUwcwFCWi3AV "The Ultimate JavaScript Mastery Series - Part 1")
-(https://github.com/AhmedRaja1/JavaScript-Beginners-Snippets-/blob/main/Files.png?raw=true)
+![Files](https://github.com/AhmedRaja1/JavaScript-Beginners-Snippets-/blob/main/Files.png?raw=true)
 ### Introduction
 
 This repository was made while studying with [Mosh Hamedani](https://programmingwithmosh.com/ "Programming with Mosh"), in [Code with Mosh](https://codewithmosh.com/ "Code with Mosh"). And it contains all my notes from the course. It can be used as an extensive JavaScript cheatsheet.
